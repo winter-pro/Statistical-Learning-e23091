@@ -1,4 +1,4 @@
-# Energy Analysis Assignment
+# Assignment #6: Gaussian Process Regression and Linear Regression
 
 This repository contains the submission files for the assignment on:
 
