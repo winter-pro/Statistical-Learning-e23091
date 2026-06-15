@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data
+*.csv
+*.xlsx
+*.zip
+
+# Figures generated during execution
+figures/*.png
+figures/*.jpg
+
+# Environment
+.env
+.venv/
+venv/
